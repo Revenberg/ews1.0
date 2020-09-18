@@ -1,0 +1,11 @@
+info\revenberg\domain\AuditModel.class
+info\revenberg\domain\line\ConcatLines.class
+info\revenberg\domain\Song.class
+info\revenberg\domain\line\ImageProcess.class
+info\revenberg\domain\ResourceSupport.class
+info\revenberg\domain\line\ImageDefinition.class
+info\revenberg\ppt\FileService.class
+info\revenberg\domain\line\FindLinesInImage.class
+info\revenberg\ppt\Reader.class
+info\revenberg\domain\FileService.class
+info\revenberg\domain\Vers.class

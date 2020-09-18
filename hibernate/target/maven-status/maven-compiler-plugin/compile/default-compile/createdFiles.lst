@@ -1,0 +1,9 @@
+org\hibernate\dialect\SQLiteMetadataBuilderInitializer$1.class
+org\hibernate\dialect\identity\SQLiteDialectIdentityColumnSupport.class
+org\hibernate\dialect\SQLiteDialect.class
+org\hibernate\dialect\SQLiteMetadataBuilderInitializer.class
+org\hibernate\dialect\SQLiteDialect$4.class
+org\hibernate\dialect\SQLiteDialect$2.class
+org\hibernate\dialect\SQLiteDialect$3.class
+org\hibernate\dialect\SQLiteDialect$SQLiteUniqueDelegate.class
+org\hibernate\dialect\SQLiteDialect$1.class
